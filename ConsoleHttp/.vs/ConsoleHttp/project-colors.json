@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe7ff145-775b-48f4-ad6f-2d5bbebd64ce": {
+      "ProjectGuid": "fe7ff145-775b-48f4-ad6f-2d5bbebd64ce",
+      "DisplayName": "ConsoleHttp",
+      "ColorIndex": 0
+    },
+    "90213214-325d-4e0b-9669-d4ee7bf26841": {
+      "ProjectGuid": "90213214-325d-4e0b-9669-d4ee7bf26841",
+      "DisplayName": "ConsoleListener",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

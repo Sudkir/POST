@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\ConsoleListener\bin\Debug\net6.0\ConsoleListener.exe
+C:\Users\Admin\source\repos\ConsoleListener\bin\Debug\net6.0\ConsoleListener.deps.json
+C:\Users\Admin\source\repos\ConsoleListener\bin\Debug\net6.0\ConsoleListener.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleListener\bin\Debug\net6.0\ConsoleListener.dll
+C:\Users\Admin\source\repos\ConsoleListener\bin\Debug\net6.0\ref\ConsoleListener.dll
+C:\Users\Admin\source\repos\ConsoleListener\bin\Debug\net6.0\ConsoleListener.pdb
+C:\Users\Admin\source\repos\ConsoleListener\obj\Debug\net6.0\ConsoleListener.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleListener\obj\Debug\net6.0\ConsoleListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleListener\obj\Debug\net6.0\ConsoleListener.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleListener\obj\Debug\net6.0\ConsoleListener.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleListener\obj\Debug\net6.0\ConsoleListener.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleListener\obj\Debug\net6.0\ConsoleListener.dll
+C:\Users\Admin\source\repos\ConsoleListener\obj\Debug\net6.0\ref\ConsoleListener.dll
+C:\Users\Admin\source\repos\ConsoleListener\obj\Debug\net6.0\ConsoleListener.pdb
+C:\Users\Admin\source\repos\ConsoleListener\obj\Debug\net6.0\ConsoleListener.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleListener\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\ConsoleListener\obj\Debug\net6.0\ConsoleListener.csproj.CopyComplete

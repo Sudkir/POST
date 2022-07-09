@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\ConsoleHttp\bin\Debug\net6.0\ConsoleHttp.exe
+C:\Users\Admin\source\repos\ConsoleHttp\bin\Debug\net6.0\ConsoleHttp.deps.json
+C:\Users\Admin\source\repos\ConsoleHttp\bin\Debug\net6.0\ConsoleHttp.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleHttp\bin\Debug\net6.0\ConsoleHttp.dll
+C:\Users\Admin\source\repos\ConsoleHttp\bin\Debug\net6.0\ref\ConsoleHttp.dll
+C:\Users\Admin\source\repos\ConsoleHttp\bin\Debug\net6.0\ConsoleHttp.pdb
+C:\Users\Admin\source\repos\ConsoleHttp\obj\Debug\net6.0\ConsoleHttp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ConsoleHttp\obj\Debug\net6.0\ConsoleHttp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleHttp\obj\Debug\net6.0\ConsoleHttp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleHttp\obj\Debug\net6.0\ConsoleHttp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleHttp\obj\Debug\net6.0\ConsoleHttp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleHttp\obj\Debug\net6.0\ConsoleHttp.dll
+C:\Users\Admin\source\repos\ConsoleHttp\obj\Debug\net6.0\ref\ConsoleHttp.dll
+C:\Users\Admin\source\repos\ConsoleHttp\obj\Debug\net6.0\ConsoleHttp.pdb
+C:\Users\Admin\source\repos\ConsoleHttp\obj\Debug\net6.0\ConsoleHttp.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleHttp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\ConsoleHttp\obj\Debug\net6.0\ConsoleHttp.csproj.CopyComplete
